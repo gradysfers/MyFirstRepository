@@ -34,3 +34,4 @@ peprignut na poslednii komit vetki\prosto komit
 git checkout 334reassidasdl 
 
 git checkout imyavetki
+
